@@ -4,7 +4,7 @@ module.exports = async (client) => {
       status: "online",  // You can show online, idle, and dnd
       activity: {
           name: "your mom getting railed",  // The message shown
-          type: "STREAMING", // PLAYING, WATCHING, LISTENING, STREAMING,
+          type: "WATCHING", // PLAYING, WATCHING, LISTENING, STREAMING,
       }
   });
       client.Manager.init(client.user.id);
