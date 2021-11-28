@@ -1,4 +1,4 @@
-# Rias-discord-js-bot
+# Optimus-prime-discord-js-bot
 exquisite discord music bot
 
 in botconfig.js, scroll down to the lavalink section and replace host wit "lava.link" also replace the port with "80"
