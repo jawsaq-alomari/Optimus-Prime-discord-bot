@@ -1,0 +1,67 @@
+Fri Jun  3 13:37:20 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Fri Jun  3 13:38:34 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Fri Jun  3 13:38:36 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:37 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:37 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:37 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:38 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:38 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:39 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:39 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:39 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:40 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:40 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:41 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:42 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:43 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:43 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:43 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:44 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:44 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:45 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:45 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:46 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:47 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:47 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:48 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:49 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:50 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:50 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:50 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:51 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:51 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:52 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:53 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:53 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:53 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:54 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:54 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:55 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:55 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:56 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:56 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:58 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:58 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:59 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:59 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:38:59 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:39:00 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:39:01 2022 : 404 Not Found (error code: 10003): Unknown Channel
+Fri Jun  3 13:40:18 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Fri Jun  3 13:40:23 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Fri Jun  3 13:44:05 2022 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
+Fri Jun  3 13:44:07 2022 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
+Fri Jun  3 13:51:57 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Fri Jun  3 13:52:07 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Fri Jun  3 14:23:52 2022 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
+Fri Jun  3 14:24:18 2022 : 400 Bad Request (error code: 50074): Cannot delete a channel required for community servers
+Sat Jun  4 21:39:09 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Sat Jun  4 21:39:17 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Sat Jun  4 21:39:20 2022 : 'NoneType' object has no attribute 'ban'
+Sat Jun  4 21:39:22 2022 : invalid literal for int() with base 10: '10AK'
+Sat Jun  4 21:39:30 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Sat Jun  4 21:41:06 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Sat Jun  4 21:41:11 2022 : 'NoneType' object has no attribute 'ban'
+Sat Jun  4 21:41:31 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Sat Jun  4 21:41:56 2022 : 403 Forbidden (error code: 50013): Missing Permissions
+Sat Jun  4 21:42:19 2022 : 403 Forbidden (error code: 50013): Missing Permissions
